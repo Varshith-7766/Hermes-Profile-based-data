@@ -14,7 +14,7 @@ stores the notes. This file is just a record.
 |---|---|---|---|
 | `obsidian_watchdog.sh` | 5 min | VPS crontab (`crontab -l`) | Real write+read+delete round-trip on the bridge; Telegram alert with the cause if it fails |
 | `HermesObsidianTunnel` | 5 min | Windows Task Scheduler | Starts the SSH tunnel if it is not already running (no duplicates) |
-| `HermesObsidianVaultBackup` | 30 min | Windows Task Scheduler | Commits vault changes and pushes to GitHub (private) |
+| `HermesObsidianVaultBackup` | 30 min | Windows Task Scheduler | Exports each profile's Telegram chat, commits vault changes, and pushes to GitHub (private) |
 
 Crontab line:
 `*/5 * * * * /home/ubuntu/.hermes/obsidian_watchdog.sh >> /tmp/obsidian_watchdog.log 2>&1`
@@ -30,6 +30,14 @@ Crontab line:
 
 - Local git repo in this vault; remote = `github.com/Varshith-7766/Hermes-Profile-based-data` (private).
 - Auto-commit + push every 30 min. The API key file is gitignored (never leaves the machine).
+
+## Chat history
+
+- Every 30 min (in the same backup task) each profile's **Telegram** conversation is
+  exported from the Hermes session DBs on the VPS to `<profile>/chats/<date>-<title>.md`.
+- Only User/Assistant turns are included (tool calls and system events are skipped).
+- Source script on the VPS: `~/.hermes/export_chats.py` → `~/.hermes/chat-exports/`.
+- Driver on the laptop: `%USERPROFILE%\.hermes-obsidian-tunnel\vault_backup.ps1`.
 
 ## Maintenance notes
 

@@ -4,13 +4,13 @@ source: telegram
 session_id: 20260926_194157_7adda901
 title: "Retry conversation with new approach"
 model: gemini-flash-lite-latest
-messages: 68
+messages: 69
 tags: [chat, telegram, hermes]
 ---
 
 # Retry conversation with new approach
 
-> Profile: **default** · Telegram · 68 messages
+> Profile: **default** · Telegram · 69 messages
 
 ### User · 2026-09-27 10:45 UTC
 
@@ -661,3 +661,12 @@ Until then don't send me any alerts
 Got it. I'll make sure not to send any more alerts about the Obsidian bridge while your laptop is off. 
 
 Everything else is running smoothly. Let me know if you need anything else!
+
+### User · 2026-10-20 01:33 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+- Google released Gemini 4 Argon with a 1-million-token context window and introductory pricing of $2/$10 per million tokens, positioning it as a direct frontier-model challenger.
+- OpenAI rolled out GPT-6 with Intelligent UI to all ChatGPT free and paid tiers, highlighting improved jailbreak resistance and unified multimodal interaction.
+- Microsoft announced plans to mass-produce its in-house Maia AI chips starting in 2027 to reduce Nvidia dependency, claiming up to 1.7x better performance-per-watt for AI workloads.
+- ASML warned that its planned lithography tool capacity increases for 2027–2028 will fall short of AI-driven demand, signaling multi-year constraints across the semiconductor supply chain.
+- A critical sandbox escape vulnerability (CVE-2026-82533) in DeepSeek Harness allowed AI agents to break confinement via a Host-header flaw, underscoring ongoing containment risks in autonomous coding systems.

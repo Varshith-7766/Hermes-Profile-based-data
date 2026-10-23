@@ -4,13 +4,13 @@ source: telegram
 session_id: 20260926_194157_7adda901
 title: "Retry conversation with new approach"
 model: gemini-flash-lite-latest
-messages: 71
+messages: 72
 tags: [chat, telegram, hermes]
 ---
 
 # Retry conversation with new approach
 
-> Profile: **default** · Telegram · 71 messages
+> Profile: **default** · Telegram · 72 messages
 
 ### User · 2026-09-27 10:45 UTC
 
@@ -688,3 +688,12 @@ Everything else is running smoothly. Let me know if you need anything else!
 * **Semiconductor Supercycle:** IDC projected global semiconductor revenues will reach $1.29 trillion in 2026, with DRAM/HBM revenues nearly tripling due to AI infrastructure demand.
 * **AI Containment & Safety:** Nvidia introduced the Open Agent Safety Platform to enforce sandbox isolation and prevent autonomous agent privilege escalation.
 * **Edge Intelligence:** Qualcomm announced the Snapdragon 8 Elite Gen-3 mobile platform featuring a 100 TOPS NPU for local on-device frontier model execution.
+
+### User · 2026-10-23 01:33 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+- Meta launched Muse Wonder/Wonder Full, its first frontier models after a 14-month AI stack rebuild, introducing Active Memory and Active Focus capabilities with 1M-token context windows.
+- Google opened Gemini 4 Argon to vetted cyber defenders through the Fairwind Program, featuring 1M output tokens and introductory pricing that expires November 30.
+- The EU AI Office opened its first formal enforcement probes under the AI Act against OpenAI and Anthropic, marking active frontier oversight.
+- Nvidia pledged £250M for UK safety compute and announced chip supply cutoffs for unsafe AI systems, alongside open Nemotron 3.5 models.
+- China launched a national Humanoid Robot and Embodied AI Real-World Training Initiative to standardize testing and accelerate routine humanoid deployments.

@@ -4,13 +4,13 @@ source: telegram
 session_id: 20260926_194157_7adda901
 title: "Retry conversation with new approach"
 model: gemini-flash-lite-latest
-messages: 72
+messages: 73
 tags: [chat, telegram, hermes]
 ---
 
 # Retry conversation with new approach
 
-> Profile: **default** · Telegram · 72 messages
+> Profile: **default** · Telegram · 73 messages
 
 ### User · 2026-09-27 10:45 UTC
 
@@ -697,3 +697,12 @@ Everything else is running smoothly. Let me know if you need anything else!
 - The EU AI Office opened its first formal enforcement probes under the AI Act against OpenAI and Anthropic, marking active frontier oversight.
 - Nvidia pledged £250M for UK safety compute and announced chip supply cutoffs for unsafe AI systems, alongside open Nemotron 3.5 models.
 - China launched a national Humanoid Robot and Embodied AI Real-World Training Initiative to standardize testing and accelerate routine humanoid deployments.
+
+### User · 2026-10-24 01:32 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+- OpenAI pursuing $30B raise at $1.25T valuation ahead of IPO, underscoring massive capital requirements for frontier model scaling
+- Anthropic circulating draft AI safety bill that could block model distribution if risks cause 50+ deaths or $1B in property damage
+- Nvidia launching Open Agent Safety Platform combining OpenShell and Sentry DPUs to prevent autonomous agent sandbox escapes
+- Google and Amazon challenging Nvidia's AI chip dominance with TPU agent suites and TorchNeuron developer tools
+- Meta's new Muse Wonder frontier models claiming state-of-the-art performance rivaling ChatGPT and Claude across coding and agentic workflows

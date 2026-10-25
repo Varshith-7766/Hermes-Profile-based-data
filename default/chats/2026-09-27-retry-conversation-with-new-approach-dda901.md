@@ -4,13 +4,13 @@ source: telegram
 session_id: 20260926_194157_7adda901
 title: "Retry conversation with new approach"
 model: gemini-flash-lite-latest
-messages: 73
+messages: 74
 tags: [chat, telegram, hermes]
 ---
 
 # Retry conversation with new approach
 
-> Profile: **default** · Telegram · 73 messages
+> Profile: **default** · Telegram · 74 messages
 
 ### User · 2026-09-27 10:45 UTC
 
@@ -706,3 +706,12 @@ Everything else is running smoothly. Let me know if you need anything else!
 - Nvidia launching Open Agent Safety Platform combining OpenShell and Sentry DPUs to prevent autonomous agent sandbox escapes
 - Google and Amazon challenging Nvidia's AI chip dominance with TPU agent suites and TorchNeuron developer tools
 - Meta's new Muse Wonder frontier models claiming state-of-the-art performance rivaling ChatGPT and Claude across coding and agentic workflows
+
+### User · 2026-10-25 01:31 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+* **NVIDIA CUDA-X & AI-Defined Fabs:** NVIDIA launched the cuPotential library for simulating atomic and molecular interactions alongside broader CUDA-X expansions, helping industry leaders like Synopsys and Cadence accelerate semiconductor design and wafer-etch modeling by up to 30x.
+* **OpenAI $30B Funding & Frontier Models:** Reports indicate OpenAI is working on a massive $30 billion funding round at a $1.25 trillion valuation, while Meta rolled out its Muse Wonder frontier models to challenge leading commercial LLMs.
+* **Microsoft MAI-DxO Medical Superintelligence:** Published in *Science*, Microsoft AI introduced MAI-DxO, a virtual physician panel operating in structured debate rounds that achieved 83% diagnostic accuracy on complex NEJM cases at half the cost of comparative systems.
+* **Robotics & Physical AI Expansions:** NVIDIA unveiled Isaac Lab 3.0 and the Agile ONE SN reference humanoid at GTC Berlin, while Tesla initiated production-quality builds of its Optimus humanoid robot at its Fremont facility.
+* **AI Safety & Policy Governance:** Politico reported that Anthropic circulated a draft federal AI safety bill proposing independent evaluations and mandatory risk reporting while limiting government intervention on model releases.

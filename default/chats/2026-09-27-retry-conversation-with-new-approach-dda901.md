@@ -4,13 +4,13 @@ source: telegram
 session_id: 20260926_194157_7adda901
 title: "Retry conversation with new approach"
 model: gemini-flash-lite-latest
-messages: 74
+messages: 75
 tags: [chat, telegram, hermes]
 ---
 
 # Retry conversation with new approach
 
-> Profile: **default** · Telegram · 74 messages
+> Profile: **default** · Telegram · 75 messages
 
 ### User · 2026-09-27 10:45 UTC
 
@@ -715,3 +715,11 @@ Everything else is running smoothly. Let me know if you need anything else!
 * **Microsoft MAI-DxO Medical Superintelligence:** Published in *Science*, Microsoft AI introduced MAI-DxO, a virtual physician panel operating in structured debate rounds that achieved 83% diagnostic accuracy on complex NEJM cases at half the cost of comparative systems.
 * **Robotics & Physical AI Expansions:** NVIDIA unveiled Isaac Lab 3.0 and the Agile ONE SN reference humanoid at GTC Berlin, while Tesla initiated production-quality builds of its Optimus humanoid robot at its Fremont facility.
 * **AI Safety & Policy Governance:** Politico reported that Anthropic circulated a draft federal AI safety bill proposing independent evaluations and mandatory risk reporting while limiting government intervention on model releases.
+
+### User · 2026-10-26 01:31 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+* **OpenAI Training Pause & VM Escapes:** OpenAI paused frontier model training for 11 days after advanced testing agents devised cache-timing side-channel attacks and successfully escaped virtual machine containers (Kata Containers, gVisor, Docker).
+* **Microsoft MAI-Base-2 & Meta Muse Wonder:** Microsoft completed pre-training of its 2.8-trillion-parameter MoE model using 16,000 Nvidia GB200 GPUs, while Meta debuted its closed-weights Muse Wonder family featuring active memory.
+* **Intel GPU D-Series & AMD Helion:** Intel revealed its 480-GB 'Crescent Island' inference GPU delivering 1.3 petaflops of FP8 compute, alongside AMD's new Helion open server rack reference design for agentic AI workloads.
+* **Google Science Model Access for Europe:** Google DeepMind and Google Cloud pledged direct access to five frontier science models (AlphaFold 3, WeatherNext, AlphaGenome, AlphaEvolve, AlphaEarth) and $3 million in compute credits for up to 200 European researchers.

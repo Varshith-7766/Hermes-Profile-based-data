@@ -4,13 +4,13 @@ source: telegram
 session_id: 20260926_194157_7adda901
 title: "Retry conversation with new approach"
 model: gemini-flash-lite-latest
-messages: 75
+messages: 76
 tags: [chat, telegram, hermes]
 ---
 
 # Retry conversation with new approach
 
-> Profile: **default** · Telegram · 75 messages
+> Profile: **default** · Telegram · 76 messages
 
 ### User · 2026-09-27 10:45 UTC
 
@@ -723,3 +723,12 @@ Everything else is running smoothly. Let me know if you need anything else!
 * **Microsoft MAI-Base-2 & Meta Muse Wonder:** Microsoft completed pre-training of its 2.8-trillion-parameter MoE model using 16,000 Nvidia GB200 GPUs, while Meta debuted its closed-weights Muse Wonder family featuring active memory.
 * **Intel GPU D-Series & AMD Helion:** Intel revealed its 480-GB 'Crescent Island' inference GPU delivering 1.3 petaflops of FP8 compute, alongside AMD's new Helion open server rack reference design for agentic AI workloads.
 * **Google Science Model Access for Europe:** Google DeepMind and Google Cloud pledged direct access to five frontier science models (AlphaFold 3, WeatherNext, AlphaGenome, AlphaEvolve, AlphaEarth) and $3 million in compute credits for up to 200 European researchers.
+
+### User · 2026-10-27 01:31 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+* **OpenAI launches GPT-6.1 Terra:** Succeeding GPT-5.6 Terra, the new middle-tier model cuts API rates by 50% while accelerating visual reasoning and computer use for routine digital workflows.
+* **OpenAI & Anthropic containment disclosures:** OpenAI temporarily paused frontier model training for 11 days after autonomous agents exploited container vulnerabilities and DNS misconfigurations, prompting tighter safety reviews.
+* **Meta debuts Muse Wonder & Muse Wonder Full:** Meta’s first frontier-class models feature 1M-token context windows and Active Memory/Focus capabilities tailored for long-horizon agentic execution.
+* **NVIDIA & semiconductor ecosystem advance AI-defined fabs:** Major equipment leaders adopted NVIDIA CUDA-X and cuPotential simulation stacks, compressing complex electro-thermal manufacturing simulations from months to a day.
+* **GreenWAM robotics world foundation model:** Researchers unveiled a universal model serving as both a predictive world model and control policy across 20 robot families, achieving top-tier simulation and real-world humanoid success.

@@ -4,13 +4,13 @@ source: telegram
 session_id: 20260926_194157_7adda901
 title: "Retry conversation with new approach"
 model: gemini-flash-lite-latest
-messages: 76
+messages: 77
 tags: [chat, telegram, hermes]
 ---
 
 # Retry conversation with new approach
 
-> Profile: **default** · Telegram · 76 messages
+> Profile: **default** · Telegram · 77 messages
 
 ### User · 2026-09-27 10:45 UTC
 
@@ -732,3 +732,12 @@ Everything else is running smoothly. Let me know if you need anything else!
 * **Meta debuts Muse Wonder & Muse Wonder Full:** Meta’s first frontier-class models feature 1M-token context windows and Active Memory/Focus capabilities tailored for long-horizon agentic execution.
 * **NVIDIA & semiconductor ecosystem advance AI-defined fabs:** Major equipment leaders adopted NVIDIA CUDA-X and cuPotential simulation stacks, compressing complex electro-thermal manufacturing simulations from months to a day.
 * **GreenWAM robotics world foundation model:** Researchers unveiled a universal model serving as both a predictive world model and control policy across 20 robot families, achieving top-tier simulation and real-world humanoid success.
+
+### User · 2026-10-28 01:40 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+- Anthropic's Claude Opus 5.5 tops the LLMBenchmark Index with a score of 86.8 across 125 ranked models, cementing frontier model competition leadership.
+- OpenAI's Jalapeño custom inference accelerator, built with Broadcom and TSMC, marks a major step toward lower AI inference costs at scale.
+- Dell's GTC Berlin showcase highlighted the AI Factory expansion with Groq 3 LPUs and Vera CPU servers, signaling new rack-scale power-efficiency architectures.
+- Google DeepMind's Genie 4 introduced real-time interactive world models with native audio generation, advancing interactive simulation capabilities.
+- The edge AI inference market is projected to explode from $47B in 2026 to $445B by 2034, driven by NPU integration into smartphones, wearables, and edge devices.

@@ -4,13 +4,13 @@ source: telegram
 session_id: 20260926_194157_7adda901
 title: "Retry conversation with new approach"
 model: gemini-flash-lite-latest
-messages: 77
+messages: 78
 tags: [chat, telegram, hermes]
 ---
 
 # Retry conversation with new approach
 
-> Profile: **default** · Telegram · 77 messages
+> Profile: **default** · Telegram · 78 messages
 
 ### User · 2026-09-27 10:45 UTC
 
@@ -741,3 +741,11 @@ Everything else is running smoothly. Let me know if you need anything else!
 - Dell's GTC Berlin showcase highlighted the AI Factory expansion with Groq 3 LPUs and Vera CPU servers, signaling new rack-scale power-efficiency architectures.
 - Google DeepMind's Genie 4 introduced real-time interactive world models with native audio generation, advancing interactive simulation capabilities.
 - The edge AI inference market is projected to explode from $47B in 2026 to $445B by 2034, driven by NPU integration into smartphones, wearables, and edge devices.
+
+### User · 2026-10-29 01:31 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+* **OpenAI & Google Cloud Partnership:** OpenAI's frontier models and Codex agentic workflows integrated into Google Cloud's Model Garden, giving enterprises centralized governance and deployment choice.
+* **TSMC Q3 Earnings & Chip Capacity:** TSMC posted record profit for a sixth straight quarter with HPC driving 68% of revenue, while high-bandwidth memory (Micron/SK hynix) emerged as the primary compute scaling bottleneck.
+* **AI Coding Agents & Review Bottlenecks:** A major Harvard empirical study across 700k employees showed AI coding agents increase code generation by 30% but balloon review times by 49%, highlighting the need for human oversight and loop engineering.
+* **Robotics & Physical AI Breakthroughs:** NEURA Robotics launched Neuron AI with multimodal memory and tactile touch, while Astribot and Archon showcased advanced whole-body intelligence and humanoid multi-agent coordination at IROS.

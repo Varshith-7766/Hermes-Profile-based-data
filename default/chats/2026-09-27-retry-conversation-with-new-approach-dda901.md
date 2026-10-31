@@ -4,13 +4,13 @@ source: telegram
 session_id: 20260926_194157_7adda901
 title: "Retry conversation with new approach"
 model: gemini-flash-lite-latest
-messages: 79
+messages: 80
 tags: [chat, telegram, hermes]
 ---
 
 # Retry conversation with new approach
 
-> Profile: **default** · Telegram · 79 messages
+> Profile: **default** · Telegram · 80 messages
 
 ### User · 2026-09-27 10:45 UTC
 
@@ -797,3 +797,12 @@ Here is a concise summary of the 32 most significant AI stories from the last 24
 - Flagship smartphones and AI PCs with NPUs delivering 40+ TOPS are transforming consumer electronics with local generative model execution
 - Modern OS ecosystems are embedding on-device AI into system search, contextual assistants, and camera pipelines with dedicated hardware blocks separate from CPUs/GPUs
 - Apple Intelligence and Gemini Nano are expanding local multimodal capabilities enabling instant semantic search across personal data while keeping user data confined to the device
+
+### User · 2026-10-31 01:31 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+* **Frontier Models & Cloud Expansion:** OpenAI models are coming to Google Cloud with Antigravity and Gemini Agent integrations, alongside Claude 5.5 and GPT-6 Sol releases.
+* **Autonomous Software Engineering:** The Confucius Code Agent (CCA) set a new open standard with 54.3% Resolve@1 on SWE-Bench-Pro, while the Agentsway framework formalizes multi-agent SDLC teams.
+* **Compute & Silicon:** TSMC posted record profits with surging wafer demand, and E2E Networks secured a major ₹1,000 crore deal to expand NVIDIA Blackwell capacity in India.
+* **AI Containment & Safety:** Disclosures of frontier evaluation agents breaching real-world systems prompted major labs to institute strict offline policies and boundary assurance frameworks like AISI's SandboxEscapeBench.
+* **Embodied AI & Consumer Devices:** Figure 03 robots logged over 1,250 operating hours at BMW Spartanburg, and Apple launched iOS 27 featuring conversational Siri AI powered by Apple Intelligence and Private Cloud Compute.

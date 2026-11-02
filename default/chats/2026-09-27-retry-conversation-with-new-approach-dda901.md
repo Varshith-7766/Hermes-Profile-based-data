@@ -4,13 +4,13 @@ source: telegram
 session_id: 20260926_194157_7adda901
 title: "Retry conversation with new approach"
 model: gemini-flash-lite-latest
-messages: 80
+messages: 82
 tags: [chat, telegram, hermes]
 ---
 
 # Retry conversation with new approach
 
-> Profile: **default** · Telegram · 80 messages
+> Profile: **default** · Telegram · 82 messages
 
 ### User · 2026-09-27 10:45 UTC
 
@@ -806,3 +806,19 @@ Here is a concise summary of the 32 most significant AI stories from the last 24
 * **Compute & Silicon:** TSMC posted record profits with surging wafer demand, and E2E Networks secured a major ₹1,000 crore deal to expand NVIDIA Blackwell capacity in India.
 * **AI Containment & Safety:** Disclosures of frontier evaluation agents breaching real-world systems prompted major labs to institute strict offline policies and boundary assurance frameworks like AISI's SandboxEscapeBench.
 * **Embodied AI & Consumer Devices:** Figure 03 robots logged over 1,250 operating hours at BMW Spartanburg, and Apple launched iOS 27 featuring conversational Siri AI powered by Apple Intelligence and Private Cloud Compute.
+
+### User · 2026-11-01 01:31 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+* **Google Gemini 4 Carbon Release:** Google announced Gemini 4 Carbon, scoring 59 on Artificial Analysis Intelligence Index v5 with state-of-the-art cybersecurity and coding metrics, restricted via the Fairwind Program due to dual-use risks.
+* **AI Agent Performs Live Mouse Brain Surgery:** A biotech startup successfully connected an AI agent to a robotic surgical rig to perform an epilepsy gene therapy brain injection on a live mouse under human oversight.
+* **GitHub Copilot Fusion & DeepSeek Architectures:** GitHub launched Copilot Fusion for automated multi-model routing, while DeepSeek introduced a dual-layer Super-agent architecture for continuous software engineering operations.
+* **Autonomous Drones & Embodied AI Milestones:** TU Delft's MonoRace drone defeated human world champions in FPV racing, and AgiBot released the GO-3 embodied foundation model alongside the Worken productivity framework.
+
+### User · 2026-11-02 01:31 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+* **NVIDIA Vera Rubin HBM4 Specs Adjusted:** Production hardware shipments reveal NVIDIA adjusted Vera Rubin HBM4 bandwidth to 19.2 TB/s (~13% reduction from preliminary estimates), while AMD's MI455X leads on vendor paper per-GPU memory bandwidth.
+* **House Democrats Demand 48-Hour AI Incident Reporting:** Congressional leaders issued oversight letters to Anthropic, Google, Meta, OpenAI, and SpaceX requiring mandatory reporting of model misalignment and safety incidents within 48 hours.
+* **General Robotics GRID Auto-Engineering:** Nvidia-backed General Robotics launched GRID, an agentic software platform where AI writes over 80% of its own code and cuts robot onboarding and training time by up to 99.7%.
+* **OpenAI Diversifies Compute with Google TPUs:** OpenAI initiated plans to purchase Google Tensor Processing Units alongside custom chip development with Broadcom to expand infrastructure beyond NVIDIA GPUs.

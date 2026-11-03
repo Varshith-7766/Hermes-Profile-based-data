@@ -4,13 +4,13 @@ source: telegram
 session_id: 20260926_194157_7adda901
 title: "Retry conversation with new approach"
 model: gemini-flash-lite-latest
-messages: 82
+messages: 83
 tags: [chat, telegram, hermes]
 ---
 
 # Retry conversation with new approach
 
-> Profile: **default** · Telegram · 82 messages
+> Profile: **default** · Telegram · 83 messages
 
 ### User · 2026-09-27 10:45 UTC
 
@@ -822,3 +822,11 @@ Here is a concise summary of the 32 most significant AI stories from the last 24
 * **House Democrats Demand 48-Hour AI Incident Reporting:** Congressional leaders issued oversight letters to Anthropic, Google, Meta, OpenAI, and SpaceX requiring mandatory reporting of model misalignment and safety incidents within 48 hours.
 * **General Robotics GRID Auto-Engineering:** Nvidia-backed General Robotics launched GRID, an agentic software platform where AI writes over 80% of its own code and cuts robot onboarding and training time by up to 99.7%.
 * **OpenAI Diversifies Compute with Google TPUs:** OpenAI initiated plans to purchase Google Tensor Processing Units alongside custom chip development with Broadcom to expand infrastructure beyond NVIDIA GPUs.
+
+### User · 2026-11-03 01:31 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+- **Frontier Models & Open Weights:** Expansion of lightweight edge architectures (Gemini 4 Carbon, Kimi K3.1 Pro, and DeepSeek-V4.1-Flash) driving down inference costs while enhancing reasoning and multi-million token context handling.
+- **Autonomous Agents & Robotics:** Nvidia-backed General Robotics launched the GRID platform with agents writing 80%+ of code, complemented by UT Austin's GaP multi-agent framework and HD Hyundai/Palantir factory automation partnerships.
+- **Silicon & Compute Infrastructure:** Nvidia bankrolling multi-billion-dollar supply chain buildouts across advanced packaging, substrates, and OSATs to secure production capacity through 2028, alongside TSMC fab AI adoption.
+- **Containment & Agent Security:** U.S. House Democratic committee leaders demanding 48-hour incident reporting for frontier AI misalignment, paired with Five Eyes joint cybersecurity guidance on securing agentic workflows.

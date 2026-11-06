@@ -4,13 +4,13 @@ source: telegram
 session_id: 20260926_194157_7adda901
 title: "Retry conversation with new approach"
 model: gemini-flash-lite-latest
-messages: 85
+messages: 86
 tags: [chat, telegram, hermes]
 ---
 
 # Retry conversation with new approach
 
-> Profile: **default** · Telegram · 85 messages
+> Profile: **default** · Telegram · 86 messages
 
 ### User · 2026-09-27 10:45 UTC
 
@@ -846,3 +846,11 @@ Here is a concise summary of the 32 most significant AI stories from the last 24
 - **Anthropic IPO Filing:** Filed a Form S-1 registration statement with the SEC for a proposed initial public offering on the Nasdaq Global Select Market under the ticker symbol "ANT".
 - **TSMC Q3 Revenue Surge:** Reported record third-quarter revenue of $46.7 billion, with CEO C.C. Wei noting that AI chip demand remains far above current manufacturing supply capacity.
 - **OpenAI GPT-6.1 Terra:** Released at $1/M input and $5/M output tokens, delivering Astra-grade visual reasoning and computer use performance at half the price of predecessors with a 1.05M-token context window.
+
+### User · 2026-11-06 01:31 UTC
+
+[Cron delivery: Daily Global AI Intelligence Report (PDF)]
+* **OpenAI GPT-6 Astra & Physical Simulation:** OpenAI is deploying GPT-6 Astra across internal hardware and racing teams (Mazda, Chip Ganassi) to automate 3D CAD generation, aerodynamics, and structural crash safety simulations.
+* **Semiconductor Scale & M&A Expansion:** Major industry consolidation and acquisitions—including AMD acquiring Taalas for inference and Marvell combining with Lumentum for $115B—highlight surging demand for rack-scale AI hardware.
+* **Physical AI & Robotics Automation:** Platforms like General Robotics GRID and NVIDIA Cosmos GR00T are accelerating robot skill acquisition, cutting industrial robot programming times by over 97%.
+* **Scientific & Climate Acceleration:** NYU's Samudra climate model achieved a 1,000x speedup on a single GPU, simulating 1,000 years of climate activity in a single day alongside quantum-AI biotech breakthroughs at Entangled 2026.
